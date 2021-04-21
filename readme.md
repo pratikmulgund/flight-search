@@ -52,10 +52,10 @@ List of features.
 * Application javadoc can be found by opening `javadoc/index.html` in browser.
 
 To-do list:
-* Only supports basic auth for now, can be extended to support nicer auntentication/authorization paradigms.
+* Only supports basic auth for now, can be extended to support nicer aunthentication/authorization paradigms.
 
 ## Examples
-* This demo app uses basic authentication and two users who are configured can be found in
+* This demo app uses basic authentication, and two users who are configured can be found in
   [Here](src/main/java/com/demo/flightsearch/config/SecurityConfig.java)
 * Using one of the users above call the search-flights api
 >`http://localhost:8080/flight-search/search-flights?depAirportCode=TOR&arrAirportCode=BLR&departureDate=2021-01-01T00:00:00Z&arrivalDate=2021-01-02T23:00:00Z&maxConnections=3&maxResults=1`
