@@ -8,10 +8,9 @@
 ## Table of contents
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Screenshots](#screenshots)
 * [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
+* [Examples](#examples)
+* [Screenshots](#screenshots)
 * [Contact](#contact)
 
 ## Technologies
@@ -100,10 +99,13 @@ To-do list:
 >]
 > ```
 ## Screenshots
-* Swagger Integration
-![Swagger Integration](./img/swagger.jpg)
+
+* Swagger integration
+<img src="img/Swagger.JPG" />
+
+
 * Javadocs
-  ![Swagger Integration](./img/javadoc.jpg)
+<img src="img/javadoc.JPG" />
 
   
 ## Contact
