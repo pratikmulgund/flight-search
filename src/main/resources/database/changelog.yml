@@ -1,0 +1,12 @@
+databaseChangeLog:
+  - changeSet:
+      id: 1
+      author: PM
+      comment: "Initial table creation"
+      failOnError: true
+      runInTransaction: true
+      relativeToChangelogFile: true
+      changes:
+        - sqlFile:
+            path: /database/scripts/initial-database-creation.sql
+            encoding: utf8

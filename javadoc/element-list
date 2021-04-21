@@ -1,0 +1,17 @@
+com.demo.flightsearch
+com.demo.flightsearch.api.airline
+com.demo.flightsearch.api.airport
+com.demo.flightsearch.api.route
+com.demo.flightsearch.api.searchflight
+com.demo.flightsearch.api.validators
+com.demo.flightsearch.api.validators.group
+com.demo.flightsearch.common
+com.demo.flightsearch.common.exception
+com.demo.flightsearch.config
+com.demo.flightsearch.controller
+com.demo.flightsearch.domain
+com.demo.flightsearch.domain.common
+com.demo.flightsearch.it
+com.demo.flightsearch.repository
+com.demo.flightsearch.service
+com.demo.flightsearch.transformer
